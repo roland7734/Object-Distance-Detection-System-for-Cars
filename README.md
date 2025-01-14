@@ -27,7 +27,7 @@ This project uses an **Arduino Uno** integrated with a **Flutter application** t
 ---
 
 ## System Diagram
-![System Communication Schema](asstes/images/schema.png)
+![System Communication Schema](assets/images/schema.png)
 
 ---
 
@@ -120,10 +120,10 @@ The Flutter app provides a user-friendly interface for real-time visualization o
 ## Screenshots
 
 ### List of Bluetooth Devices
-![Devices List](asstes/images/devices_list.png)
+![Devices List](assets/images/devices_list.png)
 
 ### Real-Time Distance Display
-![Real-Time Distance Display](asstes/images/parking_sensor.png)
+![Real-Time Distance Display](assets/images/parking_sensor.png)
 
 ---
 
